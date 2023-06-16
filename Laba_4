@@ -1,4 +1,4 @@
-from string import ascii_uppercase
+import string
 
 class Alphabet:
     def __init__ (self, lang, letters):
